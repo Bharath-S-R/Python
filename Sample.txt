@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+
+   <head>
+      <title>Using Image in Webpage</title>
+   </head>
+	
+   <body>
+      <p>New line and down the line</p>
+      <h1>Hello There</h1>
+   </body>
+	
+</html>
